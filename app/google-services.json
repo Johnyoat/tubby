@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "415597700569",
+    "firebase_url": "https://tubby-15.firebaseio.com",
+    "project_id": "tubby-15",
+    "storage_bucket": "tubby-15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415597700569:android:babe4b7cd2953c45",
+        "android_client_info": {
+          "package_name": "com.litetech.tuby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415597700569-th5s56aagefosrsn55pppd9ui56fpr8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.litetech.tuby",
+            "certificate_hash": "0a5161a592b12a9eab8de220607e33bfda592306"
+          }
+        },
+        {
+          "client_id": "415597700569-fdjet6ao0s2nj8jh7k5g34cgui9jo5d9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrP0x-wDtUwf6FG05Y4_pnfSY3HgZCda4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415597700569-fdjet6ao0s2nj8jh7k5g34cgui9jo5d9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

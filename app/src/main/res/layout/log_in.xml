@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.LogIn">
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="Sign In with Google"
+        android:drawableEnd="@drawable/google"
+        android:backgroundTint="#fff"
+        android:background="@drawable/rect"
+        android:layout_centerHorizontal="true"
+        android:drawablePadding="-8dp"
+        android:paddingEnd="16dp"
+        android:paddingStart="0dp"
+        android:layout_marginBottom="100dp"
+        android:translationZ="10dp"
+        android:textAllCaps="false"
+        android:id="@+id/login"/>
+
+
+
+
+
+
+</RelativeLayout>
